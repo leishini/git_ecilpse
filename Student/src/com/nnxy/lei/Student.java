@@ -3,7 +3,7 @@ package com.nnxy.lei;
 public class Student {
 	private int id;//唯一标识：ID
 	private  String name;//姓名
-	private String password;//密码
+	private String password;//用户密码
 	public Student(int id, String name, String password) {
 		super();
 		this.id = id;
